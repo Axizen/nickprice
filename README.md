@@ -11,10 +11,12 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
 
 <h2> Game Programming Projects:</h2>
-- [(https://attackpotatogames.itch.io/where-neon-goes-to-die)](https://attackpotatogames.itch.io/where-neon-goes-to-die)
-- [Maze Game (Solo - Unreal Engine 4)](https://github.com/Axizen/MazeGame)
-- [Liane Telekinesis (Solo - Unreal Engine 4)](https://github.com/Axizen/LianeTelekinesis)
-- <b>The Lays Of Althas (Epoch Games -Unreal Engine 4)</b> 
+- <b>Unity (C#)</b>
+  - [Where Neon Goes To Die](https://attackpotatogames.itch.io/where-neon-goes-to-die)
+- <b>Unreal Engine 4 (Blueprints and C++ 14)</b>
+  - [Maze Game](https://github.com/Axizen/MazeGame)
+  - [Liane Telekinesis](https://github.com/Axizen/LianeTelekinesis)
+  - [The Lays Of Althas]
 
 
 <h2>Connect with me:</h2>
