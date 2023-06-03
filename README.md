@@ -11,12 +11,12 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
 
 <h2> Game Programming Projects:</h2>
+
 - <b>Unity (C#)</b>
   - [Where Neon Goes To Die](https://attackpotatogames.itch.io/where-neon-goes-to-die)
 - <b>Unreal Engine 4 (Blueprints and C++ 14)</b>
   - [Maze Game](https://github.com/Axizen/MazeGame)
   - [Liane Telekinesis](https://github.com/Axizen/LianeTelekinesis)
-  - [The Lays Of Althas]
 
 
 <h2>Connect with me:</h2>
