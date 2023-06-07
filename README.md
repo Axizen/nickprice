@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Axizen/osTicket-Ticket-Lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/Axizen/Configuring-Active-Directory-within-Azure-VMs)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Axizen/azure-network-protocols)
   - [Creating virtual machines using Azure](https://github.com/Axizen/Creating-Virtual-Machines-using-Azure)
 
 <h2> Game Programming Projects:</h2>
