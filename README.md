@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nicholaus, an <a href="linkedin.com/in/pricenicholaus">IT Professional and Programmer </a></h1>
+<h1>Hi, I'm Nicholaus, an <a href="linkedin.com/in/pricenicholaus">IT Professional</a></h1>
 
 <h2> Information Technology Projects:</h2>
 
@@ -10,16 +10,6 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/Axizen/Configuring-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Axizen/azure-network-protocols)
   - [Creating virtual machines using Azure](https://github.com/Axizen/Creating-Virtual-Machines-using-Azure)
-
-<h2> Game Programming Projects:</h2>
-
-- <b>Unity (C#)</b>
-  - [Where Neon Goes To Die](https://attackpotatogames.itch.io/where-neon-goes-to-die)
-  - [A Shot in the Dark](https://github.com/Axizen/A-Shot-in-the-Dark)
-- <b>Unreal Engine 4 (Blueprints and C++ 14)</b>
-  - [Maze Game](https://github.com/Axizen/MazeGame)
-  - [Liane Telekinesis](https://github.com/Axizen/LianeTelekinesis)
-
 
 <h2>Connect with me:</h2>
 
